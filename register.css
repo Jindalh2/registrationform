@@ -1,0 +1,32 @@
+body,html,.bgbody{
+	height:100%;
+}
+
+#jumbotronnew{
+	background-color:#ffffff;
+	color:#0099ff;
+}
+
+.heading{
+	font-weight: bold;
+	font-family: "Arial";
+	color: #0099ff;
+}
+
+.newcolor{
+	color:#0099ff;
+}  
+
+.basic{
+	height: 50%;
+}
+
+.bgimage{
+	background-image:url('./seo_gif3.png'); 
+	background-position: center center;
+	background-repeat: no-repeat;
+	 
+	 background-size: 10% 10% 10% 10%;
+
+
+}
